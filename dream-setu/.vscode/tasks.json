@@ -1,0 +1,7 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    { "label": "Dev server", "type": "npm", "script": "dev", "isBackground": true, "problemMatcher": [], "group": { "kind": "build", "isDefault": true } },
+    { "label": "Type check", "type": "npm", "script": "typecheck", "problemMatcher": ["$tsc"] }
+  ]
+}

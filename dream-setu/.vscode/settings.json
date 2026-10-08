@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "files.exclude": { ".next": true },
+  "search.exclude": { ".next": true, "node_modules": true }
+}

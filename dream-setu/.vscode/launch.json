@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "Next.js: debug server", "type": "node-terminal", "request": "launch", "command": "npm run dev" },
+    { "name": "Next.js: debug in Chrome", "type": "chrome", "request": "launch", "url": "http://localhost:3000" }
+  ]
+}
